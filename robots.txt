@@ -1,0 +1,5 @@
+User-agent: Zendesk/External-Content
+Allow: /
+
+User-agent: *
+Disallow: /
